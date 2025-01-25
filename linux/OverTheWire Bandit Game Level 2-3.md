@@ -51,4 +51,11 @@ The password will be noted down as it is needed to progress to the next level (`
 
 Password: 263JGJPfgU6LtdEvgfWU1XP5yac29mFx 
 
+### 5: Exit Session
+
+We will logout out of the session by typing:
+
+```bash
+exit
+```
 ---
